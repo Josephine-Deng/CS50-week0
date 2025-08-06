@@ -15,7 +15,7 @@
 - I mistakenly wrote `else num==rand:` in Python, which I later corrected
 
 ## 🎯 My Goal for Tomorrow
-- Start CS50 Week 1 (C programming basics)
+- Start CS50 Week 2
 - Learn how to write professional README files
 - Keep building the habit of writing daily project notes
 
