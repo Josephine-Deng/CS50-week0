@@ -33,5 +33,5 @@ The player tries to guess the number,and the program will give some hints
 - `notes.md`: My personal learning notes
 - 
 # next steps
-- Start CS50 Week 1 (C Language basics)
+- Start CS50 Week 2
 - Practice writing more detailed README files for future projects
