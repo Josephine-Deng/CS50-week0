@@ -1,11 +1,6 @@
 # CS50-week0
 My first CS50 project using Scratch and Python
 
-##  Key Files
-- [number_guessing_game.py](./number_guessing_game.py)
-- ![Scratch Screenshot](./scratch_project.png)
-- [notes.md](./notes.md)
-
 # what do I do
 This project is a part of the CS50x coursework,I built a guess game by both Scratch and python
 
